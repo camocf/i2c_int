@@ -26,8 +26,8 @@ To build:
 
 ### Project Inclusion
 To include this library in your project:
--Link the libi2c_int.a static library to your project
--Include the header file located at i2c_int/include
+- Link the libi2c_int.a static library to your project
+- Include the header file located at i2c_int/include
 
 ### Example
 ![Image](Example.png)
